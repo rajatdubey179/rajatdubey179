@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lavish171)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garg-lavish/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elavishgarg36@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajatdubey179)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajatdubey179)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajatdubey179@gmail.com)
 
 
 [![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatdubey179)](https://github.com/rajatdubey179/github-readme-stats)
