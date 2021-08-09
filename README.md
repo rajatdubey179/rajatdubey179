@@ -2,6 +2,7 @@
 - 👀 My career objective is to enhance my knowledge and work for an organization where I can show my skills, talent and hard work towards achieving company goals through learning and innovation.
 - 🌱 I’m currently learning competitive programming, Data Structures and Web Development Applications 
 - 💞️ I’m looking to collaborate with an IT organization where I can implement my technical skills for gaining knowledge, learning and experience.
+- ✨ I would rather have questions that can't be answered than answers that can't be questioned !
 
 - 📫 How to reach me  
 
@@ -26,15 +27,6 @@
    |  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>|
    
  
-
-
-### - ✨Projects :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajatdubey179&repo=Online-Booking-System)](https://github.com/rajatdubey179/Online-Booking-System) :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajatdubey179&repo=Note-Application-)](https://github.com/rajatdubey179/Note-Application-) :
-
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatdubey179)](https://github.com/rajatdubey179/github-readme-stats)
-
 
 <!---
 rajatdubey179/rajatdubey179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
