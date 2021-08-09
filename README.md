@@ -31,6 +31,7 @@
 ### - ✨Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajatdubey179&repo=Online-Booking-System)](https://github.com/rajatdubey179/Online-Booking-System) :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajatdubey179&repo=Note-Application-)](https://github.com/rajatdubey179/Note-Application-) :
 
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatdubey179)](https://github.com/rajatdubey179/github-readme-stats)
 
